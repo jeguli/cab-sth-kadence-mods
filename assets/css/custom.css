@@ -1,1 +1,7 @@
 /* Custom CSS */
+
+
+.header-cart-total {
+	margin-left: -1em !important;
+	margin-top: -2em !important;
+}
