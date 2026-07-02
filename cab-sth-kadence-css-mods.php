@@ -1,0 +1,2 @@
+<?php
+//Initial plugin
